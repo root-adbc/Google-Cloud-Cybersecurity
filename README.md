@@ -1,5 +1,3 @@
-# Google-Cloud-Cybersecurity
-
 ## ☁️🔐 Cloud Security Journey
 Started: **Google Cloud Cybersecurity Certificate**
 
